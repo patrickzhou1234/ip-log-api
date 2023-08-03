@@ -1,6 +1,6 @@
 # ip-log-api
 
-<h4>This is a php api where you can send the ip as the content to it and it acts as a proxy to send to a discord webhook. </h4>
+This is a php api where you can send the ip as the content to it and it acts as a proxy to send to a discord webhook.
 <br>
 This way, people cannot use the discord webhook deleter or spam your webhook. It also validates if it is a ip and not just spam.
 <br>
